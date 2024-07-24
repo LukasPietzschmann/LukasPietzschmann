@@ -1,4 +1,4 @@
-Talk ~~drity~~ compilers and typesetting to me.
+Talk ~~dirty~~ compilers and typesetting to me.
 <div float="left">
   <picture>
     <source
