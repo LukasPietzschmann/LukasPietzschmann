@@ -1,26 +1,3 @@
-Talk ~~dirty~~ compilers and typesetting to me.
-<div float="left">
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=LukasPietzschmann&layout=compact&langs_count=4&theme=dark"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=LukasPietzschmann&layout=compact&langs_count=4"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img height=150 src="https://github-readme-stats.vercel.app/api/top-langs/?username=LukasPietzschmann&layout=compact&langs_count=4" />
-  </picture>
+# Find me on [Codeberg](https://codeberg.org/LukasPietzschmann/) 😎
 
-  <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=LukasPietzschmann&show_icons=true&custom_title=GitHub%20Stats&number_format=long&theme=dark&hide=prs,issues"
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=LukasPietzschmann&show_icons=true&custom_title=GitHub%20Stats&number_format=long&hide=prs,issues"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img height=150 src="https://github-readme-stats.vercel.app/api?username=LukasPietzschmann&show_icons=true&custom_title=GitHub%20Stats&number_format=long&hide=prs,issues" />
-  </picture>
-</div>
+![Coding Moose](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzZzb3picmI1aTVubjRjYm5hZGE3eXVkZWd1eG96ejdseTUzemc4diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/UfxmvOkQamypuyTsSM/giphy.gif)
